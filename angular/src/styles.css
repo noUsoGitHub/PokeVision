@@ -112,3 +112,7 @@ img{
   border: 2px solid #A13959;
   background-color: #F85888;
 }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
+background-color: #bebebe;}

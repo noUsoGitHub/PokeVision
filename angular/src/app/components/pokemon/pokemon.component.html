@@ -1,5 +1,6 @@
-
+<div>
 <input type="text" [(ngModel)]="name">
 <button (click)="search()">Buscar</button>
-<img src="{{image}}" alt="Foto Pokemon">
-<button (click)="search()">Buscar</button>
+
+<app-card [pokemon]="pokemon"></app-card>
+</div>
