@@ -1,0 +1,9 @@
+body {
+  height: 100vh;
+
+  background: linear-gradient(to right, #78C850, #F08030, #6890F0, #A8B820, #A890F0, #A8A878, #705848, #7038F8, #F8D030, #EE99AC, #C03028, #705898, #E0C068, #98D8D8, #A040A0, #B8A038, #B8B8D0, #F85888);
+  background-image: radial-gradient(circle at 50% 50%, #ffffff00 0%, #000000ff 100%);
+  backdrop-filter: blur(20px);
+  background-position: center;
+  background-size: cover;
+}
